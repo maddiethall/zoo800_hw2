@@ -1,6 +1,6 @@
 ## ZOO 800
 ## Homework 2
-### Sophie Mummert and Maddie Thall
+### Sophia Mummert and Maddie Thall
 
 ### Objective 1
 #### Maddie:
@@ -12,7 +12,7 @@ Field: Primatology, primate behavior, primate personality
 3) Placed the code for their analysis in a public repository: 1/10
 - Available for download in a Word doc via online supplemental materials
     - Code can be copied and pasted into R
-#### Sophie:
+#### Sophia:
 Field: 
 1) Used open source software like R or Python: 
 2) Placed data in a public repository: 
