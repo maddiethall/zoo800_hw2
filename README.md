@@ -1,2 +1,2 @@
-# zoo800_homework
+# zoo800_hw2
 Homework for Zoology 800
